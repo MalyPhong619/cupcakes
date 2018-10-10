@@ -1,0 +1,15 @@
+p.flashy {
+  font-style: italic;
+  color: red;
+}
+p.flashy2 {
+  color: blue;
+  font-style: bold;
+}
+p.flashy3 {
+  color: green;
+  font-size: 35px
+}
+img {
+  width: 25%;
+}
